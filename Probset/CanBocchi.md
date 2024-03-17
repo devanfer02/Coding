@@ -7,7 +7,7 @@ Bocchi mempunyai *n* bilangan bulat positif, Bocchi ingin mengetahui dari *n* bi
 NOTE : kamu bisa membentuk kombinasi dari elemen yang sama
 
 ## Constraints
-- $0 \leq n \leq 10^4$ 
+- $1 \leq n \leq 10^4$ 
 - $0 \leq x \leq 10^5$ 
 - $0 \leq a_i \leq 10^5$ 
 
